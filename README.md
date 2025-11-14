@@ -26,7 +26,7 @@ I am particularly passionate about **Artificial Intelligence** and have spent a 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
 	</a>
   <a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/41d9c16b58765557aa24efdfc1480a9585d6255e/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 	</a>
 	<a href="https://www.cplusplus.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
