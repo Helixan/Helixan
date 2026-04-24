@@ -15,7 +15,6 @@ I am particularly passionate about **Artificial Intelligence** and have spent a 
 - Email: <a href="mailto:helixan@proton.me">helixan@proton.me</a>
 - Discord: @helixan *(formally Helixan\#2946)*
 ### Languages
-### Languages
 <table>
   <tr>
     <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
